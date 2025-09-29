@@ -1,6 +1,6 @@
 # Numerical Methods Repository
 
-This repository contains Python scripts demonstrating various numerical methods, which are commonly taught in undergraduate Computational Physics or Numerical Analysis courses. Each script includes clear explanations, professional formatting, and example applications.
+This repository contains Python scripts demonstrating various numerical methods, which are commonly taught in undergraduate Computational Physics courses. Each script includes clear explanations, professional formatting, and example applications.
 
 ## Contents
 
