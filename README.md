@@ -1,4 +1,4 @@
-# Numerical Methods Repository
+# Numerical Methods 
 
 This repository contains Python scripts demonstrating various numerical methods, which are commonly taught in undergraduate Computational Physics courses. Each script includes clear explanations, professional formatting, and example applications.
 
